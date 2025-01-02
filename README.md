@@ -1,4 +1,4 @@
-![Image description](https://github.com/RIO6IX/port-scanner-py/raw/main/sanner.png)
+![Image description](https://github.com/RIO6IX/port-scanner-py/raw/main/scanner.png)
 
 
 # Port Scanner Tool
