@@ -1,3 +1,6 @@
+![Image description](https://github.com/RIO6IX/port-scanner-py/raw/main/p2.png)
+
+
 # Port Scanner Tool
 
 This is a simple Python-based port scanner tool that allows users to scan a range of ports on a specified IP address. It uses the `nmap` Python library to scan and check the status of each port (open or closed).
@@ -18,3 +21,6 @@ Make sure you have the required software installed:
    ```
    sudo apt install python3-pip
    pip install python-nmap
+
+
+   
